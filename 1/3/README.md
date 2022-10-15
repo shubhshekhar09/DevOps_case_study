@@ -8,7 +8,7 @@ Using paramiko module we will create ssh connection and will execute the command
 - hostfile is required 
 - Username and password prompt is enabled and user have to enter the required username/password for performing the action on required server.
 
-## Features
+## Requirements
 
 - Need paramiko module to be installed on the hosting server.
 
